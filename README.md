@@ -1,1 +1,1 @@
-exponentiation
+Binary exponentiation
